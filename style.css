@@ -511,6 +511,9 @@ header img {
     justify-content: flex-start;
     margin-top: 20px;
 }
+footer nav .grid {
+    display: grid;
+    grid-template-columns:repeat(4, auto);}
 
 .footeris {
     
